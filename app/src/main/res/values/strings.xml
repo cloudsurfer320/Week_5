@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Week_5</string>
+    <string-array name="userType">
+        <item>Admin</item>
+        <item>Manager</item>
+        <item>Customer</item>
+    </string-array>
+</resources>
